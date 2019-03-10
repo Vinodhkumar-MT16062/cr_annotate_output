@@ -1,0 +1,15 @@
+[2019-03-10 20:33:39,547] INFO task_183: get job #172 request
+[2019-03-10 20:33:39,820] INFO task_183: get annotation for 172 job
+[2019-03-10 20:43:41,485] INFO task_183: dump annotation request
+[2019-03-10 20:43:44,838] INFO task_183: check annotation
+[2019-03-10 20:44:24,052] INFO task_183: dump annotation request
+[2019-03-10 20:44:27,319] INFO task_183: check annotation
+[2019-03-10 20:46:23,962] INFO task_183: dump annotation request
+[2019-03-10 20:46:27,233] INFO task_183: check annotation
+[2019-03-10 20:52:47,054] INFO task_183: get job #172 request
+[2019-03-10 20:52:47,328] INFO task_183: get annotation for 172 job
+[2019-03-10 20:54:12,169] INFO task_183: dump annotation request
+[2019-03-10 20:54:15,446] INFO task_183: check annotation
+[2019-03-10 20:57:23,522] INFO task_183: get task request
+[2019-03-10 20:57:29,277] INFO task_183: dump annotation request
+[2019-03-10 20:57:32,552] INFO task_183: check annotation

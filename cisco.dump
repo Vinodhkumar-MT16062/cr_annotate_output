@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>183</id>
+      <name>cisco</name>
+      <size>1419</size>
+      <mode>interpolation</mode>
+      <overlap>5</overlap>
+      <bugtracker></bugtracker>
+      <flipped>False</flipped>
+      <created>2019-03-10 20:31:38.385284+03:00</created>
+      <updated>2019-03-10 20:31:38.385304+03:00</updated>
+      <labels>
+        <label>
+          <name>c9200</name>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>172</id>
+          <start>0</start>
+          <stop>1418</stop>
+          <url>http://c.onepanel.io/?id=172</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>admin</username>
+        <email>admin@onepanel.io</email>
+      </owner>
+      <original_size>
+        <width>1280</width>
+        <height>720</height>
+      </original_size>
+    </task>
+    <dumped>2019-03-10 20:57:29.356556+03:00</dumped>
+  </meta>
+</annotations>
